@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### ✨프론트엔드 개발자 조원영✨
+  ### ✨프론트엔드 개발자 조원영 입니다✨
 <!--
 ### ⛏️Stacks 
 
@@ -13,9 +13,10 @@
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 
--->
+
 
 ### 📌Me
+-->
 <a href="https://velog.io/@wswy17" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:wswy17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
